@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588790573157.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3535294955",
+    "id" : "72E6D6B2",
+    "lastKnownWriteTime" : 1588790629,
+    "last_content_update" : 1588790629394,
+    "path" : "C:/Users/asus/Desktop/R/coronaIndia/coronaIndia.r",
+    "project_path" : "coronaIndia.r",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

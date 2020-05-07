@@ -1,0 +1,12 @@
+name: coronaIndia
+title: coronaIndia
+username:
+account: ykataria
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2254059
+bundleId: 3112206
+url: https://ykataria.shinyapps.io/coronaIndia/
+when: 1588791076.67449
+asMultiple: FALSE
+asStatic: FALSE
